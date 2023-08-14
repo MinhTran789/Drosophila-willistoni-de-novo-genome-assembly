@@ -22,7 +22,9 @@ The following docker images were pulled/built and used within the WDL tasks:
 - BWA/Samtools: https://hub.docker.com/r/dukegcb/bwa-samtools
 
 # Output files
-Output files are too large to be uploaded to Github, I can generate the download links when requested or share a DNAnexus project containing the result files.
+Most output files are too large to be uploaded to Github, I can generate the download links when requested or share a DNAnexus project containing the result files.
+
+For Canu assembly from PacBio long sequencing reads and Platanus assembly from Illumina short reads, Quast was used to generate quality assessment reports. These reports can be found in the `quast_reulst` folder.
 
 # Progress
 Tasks were executed one-by-one for ease of debugging. The workflow was not used, but the aim is to be able to run the entire workflow once each task has been configured correctly.
