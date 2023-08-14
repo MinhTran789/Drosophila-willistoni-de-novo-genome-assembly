@@ -1,0 +1,24 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                    platanus_Dwil_contig
+# contigs (>= 0 bp)         815088              
+# contigs (>= 1000 bp)      46392               
+# contigs (>= 5000 bp)      6155                
+# contigs (>= 10000 bp)     1787                
+# contigs (>= 25000 bp)     109                 
+# contigs (>= 50000 bp)     5                   
+Total length (>= 0 bp)      298347647           
+Total length (>= 1000 bp)   136851984           
+Total length (>= 5000 bp)   57505908            
+Total length (>= 10000 bp)  27401006            
+Total length (>= 25000 bp)  3560945             
+Total length (>= 50000 bp)  274959              
+# contigs                   92512               
+Largest contig              65369               
+Total length                169077010           
+GC (%)                      36.23               
+N50                         2792                
+N75                         1217                
+L50                         13527               
+L75                         37273               
+# N's per 100 kbp           0.00                

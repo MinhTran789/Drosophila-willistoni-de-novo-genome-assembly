@@ -1,0 +1,24 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                    Dwil.contigs
+# contigs (>= 0 bp)         1129        
+# contigs (>= 1000 bp)      1129        
+# contigs (>= 5000 bp)      1125        
+# contigs (>= 10000 bp)     1086        
+# contigs (>= 25000 bp)     800         
+# contigs (>= 50000 bp)     504         
+Total length (>= 0 bp)      267970797   
+Total length (>= 1000 bp)   267970797   
+Total length (>= 5000 bp)   267954117   
+Total length (>= 10000 bp)  267646162   
+Total length (>= 25000 bp)  262321822   
+Total length (>= 50000 bp)  251922655   
+# contigs                   1129        
+Largest contig              14090991    
+Total length                267970797   
+GC (%)                      37.51       
+N50                         1546018     
+N75                         352928      
+L50                         35          
+L75                         123         
+# N's per 100 kbp           0.00        
